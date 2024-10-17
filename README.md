@@ -1,5 +1,7 @@
 # TEPP
 
+[![Run Tests](https://github.com/d3servelabs/tepp/actions/workflows/test.yaml/badge.svg)](https://github.com/d3servelabs/tepp/actions/workflows/test.yaml)
+
 A typescript nodejs implementation of the EPP protocol.
 
 ## List of RFCs supported
