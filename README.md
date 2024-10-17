@@ -4,7 +4,7 @@
 
 A typescript nodejs implementation of the EPP protocol.
 
-## List of RFCs supported
+## List of RFCs to be supported
 ### Core RFCs
 - RFC 5730 - Extensible Provisioning Protocol (EPP) (Obsoletes RFC 3730)
   This is the core EPP specification.
